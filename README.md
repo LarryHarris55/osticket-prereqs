@@ -110,6 +110,6 @@ Download HeidiSQL
 <img src=https://i.imgur.com/0O0pjxt.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Congradulation you've downloaded OSTICKET
+Congratulation you've downloaded OSTICKET
 </p>
 <br />
